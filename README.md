@@ -1,7 +1,8 @@
 # target_prediction
 __Author__: tlsun@pku.edu.cn
-__Usage:__: 1.python HLA-Vec_Object sequence_file #embedding created named 'seq_emb'
--           2.python test_w2v_LR.py seq_emb # the prediction result will be written in file 'prediction_result'
+__Usage:__: 
+- 1.python HLA-Vec_Object sequence_file #embedding created named 'seq_emb'
+- 2.python test_w2v_LR.py seq_emb # the prediction result will be written in file 'prediction_result'
 __Requirements__:
 - Python 2.7.14
 - numpy1.13.3
