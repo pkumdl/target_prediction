@@ -1,8 +1,7 @@
 Target_prediction
 ===================
-Author:
-##
-- tlsun@pku.edu.cn<br>
+## Author:
+tlsun@pku.edu.cn<br>
 Usage:
 ##
 - 1.python HLA-Vec_Object sequence_file #embedding created named 'seq_emb'
