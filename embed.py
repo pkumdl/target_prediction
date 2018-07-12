@@ -49,4 +49,4 @@ if __name__=='__main__':
 	hla_weight=hla(parameter)
 	data_embedding=embedding(data_process,hla_weight)
 	data_norm=norm(data_embedding,dim)
-	np.savetxt('try1',data_norm,'%.3f')
+	np.savetxt('seq_emb',data_norm,'%.3f')
